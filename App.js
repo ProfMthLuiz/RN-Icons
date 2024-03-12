@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <FontAwesome size={100} color="red" name="facebook" />
-      <Text style={{ fontSize: 50 }}>acebook</Text>
+      <Text style={{ fontSize: 50 }}>facebook</Text>
     </View>
   );
 }
