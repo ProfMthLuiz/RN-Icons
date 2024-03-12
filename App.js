@@ -1,3 +1,4 @@
+// https://icons.expo.fyi/Index
 // node_modules/@expo/vector-icons
 import { StyleSheet, Text, View } from "react-native";
 import FontAwesome from "@expo/vector-icons/FontAwesome";
